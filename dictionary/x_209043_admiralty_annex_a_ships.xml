@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Annex A (Ships)" max_length="40" name="x_209043_admiralty_annex_a_ships" type="collection">
+        <element label="Acceleration 0-50%" max_length="40" name="acceleration_0_50" type="integer"/>
+        <element label="Acceleration 51-100%" max_length="40" name="acceleration_51_100" type="integer"/>
+        <element label="Advance Hard Rudder" max_length="40" name="advance_hard_rudder" type="integer"/>
+        <element label="Advance Standard Rudder" max_length="40" name="advance_standard_rudder" type="integer"/>
+        <element label="Armor" max_length="40" name="armor" type="string"/>
+        <element label="Book" max_length="40" name="book" type="string"/>
+        <element label="Class Name" max_length="40" name="class_name" type="string"/>
+        <element label="Countermeasures" max_length="40" name="countermeasures" type="string"/>
+        <element label="Crew" max_length="40" name="crew" type="integer"/>
+        <element default="0" label="Damage Points 0%" max_length="40" name="damage_points_0" type="integer"/>
+        <element label="Damage Points 100%" max_length="40" name="damage_points_100" type="integer"/>
+        <element label="Damage Points 25%" max_length="40" name="damage_points_25" type="integer"/>
+        <element label="Damage Points 50%" max_length="40" name="damage_points_50" type="integer"/>
+        <element label="Damage Points 75%" max_length="40" name="damage_points_75" type="integer"/>
+        <element label="Damage Points 90%" max_length="40" name="damage_points_90" type="integer"/>
+        <element label="Decelation" max_length="40" name="decelation" type="integer"/>
+        <element label="Embarked Aircraft" max_length="40" name="embarked_aircraft" type="string"/>
+        <element label="Game System" max_length="40" name="game_system" type="string"/>
+        <element label="Notes and Remarks" max_length="40" name="notes_and_remarks" type="string"/>
+        <element label="Other Sensors" max_length="40" name="other_sensors" type="string"/>
+        <element label="Propulsion" max_length="40" name="propulsion" type="string"/>
+        <element label="Ship Name" max_length="40" name="ship_name" type="string"/>
+        <element label="Ship Type" max_length="40" name="ship_type" type="string"/>
+        <element label="Signature" max_length="40" name="signature" type="string"/>
+        <element label="Size Class" max_length="40" name="size_class" type="string"/>
+        <element label="Speed Loss Hard Rudder" max_length="40" name="speed_loss_hard_rudder" type="integer"/>
+        <element label="Speed Loss Standard Rudder" max_length="40" name="speed_loss_standard_rudder" type="integer"/>
+        <element label="Submerged Speed 0%" max_length="40" name="submerged_speed_0" type="integer"/>
+        <element default="Sinks" label="Submerged Speed 100%" max_length="40" name="submerged_speed_100" type="string"/>
+        <element label="Submerged Speed 25%" max_length="40" name="submerged_speed_25" type="integer"/>
+        <element label="Submerged Speed 50%" max_length="40" name="submerged_speed_50" type="integer"/>
+        <element label="Submerged Speed 75%" max_length="40" name="submerged_speed_75" type="integer"/>
+        <element default="0" label="Submerged Speed 90%" max_length="40" name="submerged_speed_90" type="integer"/>
+        <element label="Surface Speed 0%" max_length="40" name="surface_speed_0" type="integer"/>
+        <element default="Sinks" label="Surface Speed 100%" max_length="40" name="surface_speed_100" type="string"/>
+        <element label="Surface Speed 25%" max_length="40" name="surface_speed_25" type="integer"/>
+        <element label="Surface Speed 50%" max_length="40" name="surface_speed_50" type="integer"/>
+        <element label="Surface Speed 75%" max_length="40" name="surface_speed_75" type="integer"/>
+        <element default="0" label="Surface Speed  90%" max_length="40" name="surface_speed_90" type="integer"/>
+        <element label="Total Mounts" max_length="40" name="total_mounts" type="integer"/>
+    </element>
+</database>

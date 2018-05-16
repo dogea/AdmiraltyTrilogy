@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-16 13:32:09</sys_created_on>
+        <sys_id>f3b15a26db061300c2ec788dbf961995</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_209043_admiralty_annex_b_aircraft.x_209043_admiralty.annex_b_aircraft_user</sys_name>
+        <sys_package display_value="AdmiraltyTrilogy" source="x_209043_admiralty">5684826adb421300c2ec788dbf9619ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AdmiraltyTrilogy">5684826adb421300c2ec788dbf9619ef</sys_scope>
+        <sys_security_acl display_value="x_209043_admiralty_annex_b_aircraft">b3b15a26db061300c2ec788dbf961991</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f3b15a26db061300c2ec788dbf961995</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-16 13:32:09</sys_updated_on>
+        <sys_user_role display_value="x_209043_admiralty.annex_b_aircraft_user" name="x_209043_admiralty.annex_b_aircraft_user">e7b15e2adb421300c2ec788dbf9619b2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

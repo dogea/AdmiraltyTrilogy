@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_209043_admiralty.annex_a_ships_user" name="x_209043_admiralty.annex_a_ships_user">ef711626db061300c2ec788dbf961930</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-16 13:31:03</sys_created_on>
+        <sys_id>6b711626db061300c2ec788dbf961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ef711626db061300c2ec788dbf961930</sys_name>
+        <sys_package display_value="AdmiraltyTrilogy" source="x_209043_admiralty">5684826adb421300c2ec788dbf9619ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AdmiraltyTrilogy">5684826adb421300c2ec788dbf9619ef</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6b711626db061300c2ec788dbf961933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-16 13:31:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
