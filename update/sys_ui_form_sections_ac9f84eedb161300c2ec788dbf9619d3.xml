@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="ac9f84eedb161300c2ec788dbf9619d3" sys_domain="global" table="x_209043_admiralty_annex_b_aircraft" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 14:19:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b09f84eedb161300c2ec788dbf9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_209043_admiralty_annex_b_aircraft" name="x_209043_admiralty_annex_b_aircraft" sys_domain="global" view="Default view">ac9f84eedb161300c2ec788dbf9619d3</sys_ui_form>
+            <sys_ui_section caption="Aircraft Information" display_value="Aircraft Information" name="x_209043_admiralty_annex_b_aircraft" sys_domain="global" view="Default view">9f2e4ce6db161300c2ec788dbf9619cf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 14:19:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 14:19:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc9f84eedb161300c2ec788dbf9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_209043_admiralty_annex_b_aircraft" name="x_209043_admiralty_annex_b_aircraft" sys_domain="global" view="Default view">ac9f84eedb161300c2ec788dbf9619d3</sys_ui_form>
+            <sys_ui_section caption="Speed/Ceiling/Range" display_value="Speed/Ceiling/Range" name="x_209043_admiralty_annex_b_aircraft" sys_domain="global" view="Default view">a89f84eedb161300c2ec788dbf9619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 14:19:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 14:19:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>789f84eedb161300c2ec788dbf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_209043_admiralty_annex_b_aircraft" name="x_209043_admiralty_annex_b_aircraft" sys_domain="global" view="Default view">ac9f84eedb161300c2ec788dbf9619d3</sys_ui_form>
+            <sys_ui_section caption="Notes and Remarks" display_value="Notes and Remarks" name="x_209043_admiralty_annex_b_aircraft" sys_domain="global" view="Default view">a09f84eedb161300c2ec788dbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 14:19:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_209043_admiralty_annex_b_aircraft</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 14:19:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac9f84eedb161300c2ec788dbf9619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_209043_admiralty_annex_b_aircraft</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AdmiraltyTrilogy" source="x_209043_admiralty">5684826adb421300c2ec788dbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AdmiraltyTrilogy">5684826adb421300c2ec788dbf9619ef</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ac9f84eedb161300c2ec788dbf9619d3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 14:19:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

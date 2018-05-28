@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Notes and Remarks" section_id="a09f84eedb161300c2ec788dbf9619d3" sys_domain="global" table="x_209043_admiralty_annex_b_aircraft" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>remarks</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 14:19:08</sys_created_on>
+            <sys_id>c19fc4eedb161300c2ec788dbf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes and Remarks" display_value="Notes and Remarks" name="x_209043_admiralty_annex_b_aircraft" sys_domain="global" view="Default view">a09f84eedb161300c2ec788dbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 14:19:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 14:19:08</sys_created_on>
+            <sys_id>459fc4eedb161300c2ec788dbf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes and Remarks" display_value="Notes and Remarks" name="x_209043_admiralty_annex_b_aircraft" sys_domain="global" view="Default view">a09f84eedb161300c2ec788dbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 14:19:08</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_game_system</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 14:19:08</sys_created_on>
+            <sys_id>c59fc4eedb161300c2ec788dbf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes and Remarks" display_value="Notes and Remarks" name="x_209043_admiralty_annex_b_aircraft" sys_domain="global" view="Default view">a09f84eedb161300c2ec788dbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 14:19:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 14:19:08</sys_created_on>
+            <sys_id>499fc4eedb161300c2ec788dbf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes and Remarks" display_value="Notes and Remarks" name="x_209043_admiralty_annex_b_aircraft" sys_domain="global" view="Default view">a09f84eedb161300c2ec788dbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 14:19:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_book</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 14:19:08</sys_created_on>
+            <sys_id>c99fc4eedb161300c2ec788dbf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes and Remarks" display_value="Notes and Remarks" name="x_209043_admiralty_annex_b_aircraft" sys_domain="global" view="Default view">a09f84eedb161300c2ec788dbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 14:19:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes and Remarks</caption>
+            <header>false</header>
+            <name>x_209043_admiralty_annex_b_aircraft</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 14:19:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a09f84eedb161300c2ec788dbf9619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Notes and Remarks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AdmiraltyTrilogy" source="x_209043_admiralty">5684826adb421300c2ec788dbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AdmiraltyTrilogy">5684826adb421300c2ec788dbf9619ef</sys_scope>
+            <sys_update_name>sys_ui_section_a09f84eedb161300c2ec788dbf9619d3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 14:19:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -9,6 +9,7 @@
         <element label="Book" max_length="40" name="book" type="string"/>
         <element label="Class Name" max_length="40" name="class_name" type="string"/>
         <element label="Countermeasures" max_length="40" name="countermeasures" type="string"/>
+        <element label="Country" max_length="40" name="country" type="string"/>
         <element label="Crew" max_length="40" name="crew" type="integer"/>
         <element default="0" label="Damage Points 0%" max_length="40" name="damage_points_0" type="integer"/>
         <element label="Damage Points 100%" max_length="40" name="damage_points_100" type="integer"/>

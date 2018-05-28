@@ -5,181 +5,195 @@
             <element>ship_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>017a5eeadb061300c2ec788dbf961951</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>8f0773dedbd21300c2ec788dbf961922</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>030773dedbd21300c2ec788dbf961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>class_name</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>817a5eeadb061300c2ec788dbf961951</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>830773dedbd21300c2ec788dbf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ship_type</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>057a5eeadb061300c2ec788dbf961951</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>070773dedbd21300c2ec788dbf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>size_class</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>857a5eeadb061300c2ec788dbf961951</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>870773dedbd21300c2ec788dbf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>signature</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>097a5eeadb061300c2ec788dbf961951</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>0b0773dedbd21300c2ec788dbf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>propulsion</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>897a5eeadb061300c2ec788dbf961951</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>8b0773dedbd21300c2ec788dbf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>0d7a5eeadb061300c2ec788dbf961951</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>0f0773dedbd21300c2ec788dbf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>countermeasures</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>8d7a5eeadb061300c2ec788dbf961951</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>8f0773dedbd21300c2ec788dbf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>other_sensors</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>017a5eeadb061300c2ec788dbf961952</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>030773dedbd21300c2ec788dbf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>crew</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>817a5eeadb061300c2ec788dbf961952</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>830773dedbd21300c2ec788dbf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>total_mounts</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>057a5eeadb061300c2ec788dbf961952</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>070773dedbd21300c2ec788dbf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>armor</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>857a5eeadb061300c2ec788dbf961952</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>870773dedbd21300c2ec788dbf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>embarked_aircraft</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:10:12</sys_created_on>
-            <sys_id>097a5eeadb061300c2ec788dbf961952</sys_id>
+            <sys_created_on>2018-05-28 12:31:58</sys_created_on>
+            <sys_id>0b0773dedbd21300c2ec788dbf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ship Information" display_value="Ship Information" name="x_209043_admiralty_annex_a_ships" sys_domain="global" view="Default view">def712aadb061300c2ec788dbf9619c6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:10:12</sys_updated_on>
+            <sys_updated_on>2018-05-28 12:31:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

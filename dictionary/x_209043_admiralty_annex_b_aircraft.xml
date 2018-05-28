@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Annex B (Aircraft)" max_length="40" name="x_209043_admiralty_annex_b_aircraft" type="collection"/>
+    <element label="Annex B (Aircraft)" max_length="40" name="x_209043_admiralty_annex_b_aircraft" type="collection">
+        <element label="Bombsight" max_length="40" name="bombsight" type="string"/>
+        <element label="Ceiling (m)" max_length="40" name="ceiling_m" type="integer"/>
+        <element label="Class" max_length="40" name="class" type="string"/>
+        <element label="Countermeasures" max_length="40" name="countermeasures" type="string"/>
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="Cruise Range (nm)" max_length="40" name="cruise_range_nm" type="integer"/>
+        <element label="Engine Type" max_length="40" name="engine_type" type="string"/>
+        <element label="Gun Atk" max_length="40" name="gun_atk" type="string"/>
+        <element label="Inflight Refuel" max_length="40" name="inflight_refuel" type="string"/>
+        <element label="Internal Fuel (kg)" max_length="40" name="internal_fuel_kg" type="integer"/>
+        <element label="Man Rating" max_length="40" name="man_rating" type="string"/>
+        <element label="Max Payload (kg)" max_length="40" name="max_payload_kg" type="integer"/>
+        <element label="Med Cruise" max_length="40" name="med_cruise" type="string"/>
+        <element label="Med Full Mil" max_length="40" name="med_full_mil" type="string"/>
+        <element label="Med Reheat" max_length="40" name="med_reheat" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Remarks" max_length="40" name="remarks" type="string"/>
+        <element label="Sensors" max_length="40" name="sensors" type="string"/>
+        <element label="Size/Signature" max_length="40" name="size_signature" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Book" max_length="40" name="u_book" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Game System" max_length="40" name="u_game_system" type="string"/>
+        <element label="V/Low Cruise" max_length="40" name="v_low_cruise" type="string"/>
+        <element label="V/Low Full Mil" max_length="40" name="v_low_full_mil" type="string"/>
+        <element label="V/Low Reheat" max_length="40" name="v_low_reheat" type="string"/>
+    </element>
 </database>
