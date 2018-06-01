@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="m2m_A2K" max_length="40" name="x_209043_admiralty_m2m_a2k" type="collection">
+        <element label="Annex A (Ships)" max_length="32" name="annex_a_ships" reference="x_209043_admiralty_annex_a_ships" type="reference"/>
+        <element label="Annex K (Sonars)" max_length="32" name="annex_k_sonars" reference="x_209043_admiralty_annex_k_sonars" type="reference"/>
+        <index name="index">
+            <element name="annex_a_ships"/>
+        </index>
+        <index name="index2">
+            <element name="annex_k_sonars"/>
+        </index>
+    </element>
+</database>

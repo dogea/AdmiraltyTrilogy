@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="annex_b_aircraft" label="Annex B (Aircraft)" language="en" table="x_209043_admiralty_m2m_a2b">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>annex_b_aircraft</element>
+            <help/>
+            <hint/>
+            <label>Annex B (Aircraft)</label>
+            <language>en</language>
+            <name>x_209043_admiralty_m2m_a2b</name>
+            <plural>Annex B (Aircraft)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 09:32:33</sys_created_on>
+            <sys_id>c2543367dbde1300c2ec788dbf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Annex B (Aircraft)</sys_name>
+            <sys_package display_value="AdmiraltyTrilogy" source="x_209043_admiralty">5684826adb421300c2ec788dbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AdmiraltyTrilogy">5684826adb421300c2ec788dbf9619ef</sys_scope>
+            <sys_update_name>sys_documentation_x_209043_admiralty_m2m_a2b_annex_b_aircraft_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 09:32:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

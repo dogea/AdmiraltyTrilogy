@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="023e483bdb125300c2ec788dbf9619d6" sys_domain="global" table="x_209043_admiralty_annex_j_radars" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 11:25:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>823e483bdb125300c2ec788dbf9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_209043_admiralty_annex_j_radars" name="x_209043_admiralty_annex_j_radars" sys_domain="global" view="Default view">023e483bdb125300c2ec788dbf9619d6</sys_ui_form>
+            <sys_ui_section caption="Radar Information" display_value="Radar Information" name="x_209043_admiralty_annex_j_radars" sys_domain="global" view="Default view">3bbd08f7db125300c2ec788dbf961980</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 11:25:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 11:25:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e3e483bdb125300c2ec788dbf9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_209043_admiralty_annex_j_radars" name="x_209043_admiralty_annex_j_radars" sys_domain="global" view="Default view">023e483bdb125300c2ec788dbf9619d6</sys_ui_form>
+            <sys_ui_section caption="Notes and Remarks" display_value="Notes and Remarks" name="x_209043_admiralty_annex_j_radars" sys_domain="global" view="Default view">c23e483bdb125300c2ec788dbf9619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 11:25:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_209043_admiralty_annex_j_radars</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 11:25:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>023e483bdb125300c2ec788dbf9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_209043_admiralty_annex_j_radars</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AdmiraltyTrilogy" source="x_209043_admiralty">5684826adb421300c2ec788dbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AdmiraltyTrilogy">5684826adb421300c2ec788dbf9619ef</sys_scope>
+            <sys_update_name>sys_ui_form_sections_023e483bdb125300c2ec788dbf9619d6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 11:25:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

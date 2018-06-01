@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="annex_e_asw" label="Annex E (ASW)" language="en" table="x_209043_admiralty_m2m_b2e">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>annex_e_asw</element>
+            <help/>
+            <hint/>
+            <label>Annex E (ASW)</label>
+            <language>en</language>
+            <name>x_209043_admiralty_m2m_b2e</name>
+            <plural>Annex E (ASW)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 12:18:48</sys_created_on>
+            <sys_id>156a9873db525300c2ec788dbf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Annex E (ASW)</sys_name>
+            <sys_package display_value="AdmiraltyTrilogy" source="x_209043_admiralty">5684826adb421300c2ec788dbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AdmiraltyTrilogy">5684826adb421300c2ec788dbf9619ef</sys_scope>
+            <sys_update_name>sys_documentation_x_209043_admiralty_m2m_b2e_annex_e_asw_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 12:18:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

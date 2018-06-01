@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Annex J (Radars)" max_length="40" name="x_209043_admiralty_annex_j_radars" type="collection"/>
+    <element label="Annex J (Radars)" max_length="40" name="x_209043_admiralty_annex_j_radars" type="collection">
+        <element label="Book" max_length="40" name="book" type="string"/>
+        <element label="Function" max_length="40" name="function" type="string"/>
+        <element label="Game System" max_length="40" name="game_system" type="string"/>
+        <element label="Large" max_length="20" name="large" type="decimal"/>
+        <element label="Med" max_length="20" name="med" type="decimal"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Remarks" max_length="40" name="remarks" type="string"/>
+        <element label="Small" max_length="20" name="small" type="decimal"/>
+        <element label="Stealthy" max_length="20" name="stealthy" type="decimal"/>
+        <element label="VSmall" max_length="20" name="vsmall" type="decimal"/>
+    </element>
 </database>

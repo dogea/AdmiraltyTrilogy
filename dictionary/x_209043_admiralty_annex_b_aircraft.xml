@@ -16,7 +16,7 @@
         <element label="Med Cruise" max_length="40" name="med_cruise" type="string"/>
         <element label="Med Full Mil" max_length="40" name="med_full_mil" type="string"/>
         <element label="Med Reheat" max_length="40" name="med_reheat" type="string"/>
-        <element label="Name" max_length="40" name="name" type="string"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
         <element label="Remarks" max_length="40" name="remarks" type="string"/>
         <element label="Sensors" max_length="40" name="sensors" type="string"/>
         <element label="Size/Signature" max_length="40" name="size_signature" type="string"/>

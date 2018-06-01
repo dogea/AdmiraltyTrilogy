@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="m2m_A2J" max_length="40" name="x_209043_admiralty_m2m_a2j" type="collection">
+        <element label="Annex A (Ships)" max_length="32" name="annex_a_ships" reference="x_209043_admiralty_annex_a_ships" type="reference"/>
+        <element label="Annex J (Radars)" max_length="32" name="annex_j_radars" reference="x_209043_admiralty_annex_j_radars" type="reference"/>
+        <index name="index">
+            <element name="annex_a_ships"/>
+        </index>
+        <index name="index2">
+            <element name="annex_j_radars"/>
+        </index>
+    </element>
+</database>

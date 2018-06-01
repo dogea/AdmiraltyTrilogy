@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="" section_id="774d4b92db921300c2ec788dbf9619cd" sys_domain="global" table="x_209043_admiralty_annex_c_guns" version="3" view="">
+    <sys_ui_section caption="Gun Information" section_id="774d4b92db921300c2ec788dbf9619cd" sys_domain="global" table="x_209043_admiralty_annex_c_guns" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 12:24:34</sys_created_on>
+            <sys_id>2dbb10f3db525300c2ec788dbf9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Gun Information" display_value="Gun Information" name="x_209043_admiralty_annex_c_guns" sys_domain="global" view="Default view">774d4b92db921300c2ec788dbf9619cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 12:24:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption/>
+            <caption>Gun Information</caption>
             <header>false</header>
             <name>x_209043_admiralty_annex_c_guns</name>
             <roles/>
@@ -12,15 +26,15 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>774d4b92db921300c2ec788dbf9619cd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_209043_admiralty_annex_c_guns</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Gun Information</sys_name>
             <sys_overrides/>
             <sys_package display_value="AdmiraltyTrilogy" source="x_209043_admiralty">5684826adb421300c2ec788dbf9619ef</sys_package>
             <sys_policy/>
             <sys_scope display_value="AdmiraltyTrilogy">5684826adb421300c2ec788dbf9619ef</sys_scope>
             <sys_update_name>sys_ui_section_774d4b92db921300c2ec788dbf9619cd</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:29:36</sys_updated_on>
+            <sys_updated_on>2018-06-01 12:24:33</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

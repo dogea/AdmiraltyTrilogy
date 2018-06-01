@@ -23,7 +23,7 @@
         <element label="Notes and Remarks" max_length="40" name="notes_and_remarks" type="string"/>
         <element label="Other Sensors" max_length="40" name="other_sensors" type="string"/>
         <element label="Propulsion" max_length="40" name="propulsion" type="string"/>
-        <element label="Ship Name" max_length="40" name="ship_name" type="string"/>
+        <element display="true" label="Ship Name" max_length="40" name="ship_name" type="string"/>
         <element label="Ship Type" max_length="40" name="ship_type" type="string"/>
         <element label="Signature" max_length="40" name="signature" type="string"/>
         <element label="Size Class" max_length="40" name="size_class" type="string"/>

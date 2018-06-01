@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="3aafd4b7db525300c2ec788dbf9619e1" sys_domain="global" table="x_209043_admiralty_annex_e_asw" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 12:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36afd4b7db525300c2ec788dbf9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_209043_admiralty_annex_e_asw" name="x_209043_admiralty_annex_e_asw" sys_domain="global" view="Default view">3aafd4b7db525300c2ec788dbf9619e1</sys_ui_form>
+            <sys_ui_section caption="ASW Information" display_value="ASW Information" name="x_209043_admiralty_annex_e_asw" sys_domain="global" view="Default view">767f10b7db525300c2ec788dbf9619f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 12:41:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 12:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>feafd4b7db525300c2ec788dbf9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_209043_admiralty_annex_e_asw" name="x_209043_admiralty_annex_e_asw" sys_domain="global" view="Default view">3aafd4b7db525300c2ec788dbf9619e1</sys_ui_form>
+            <sys_ui_section caption="Notes and Remarks" display_value="Notes and Remarks" name="x_209043_admiralty_annex_e_asw" sys_domain="global" view="Default view">e6af94b7db525300c2ec788dbf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 12:41:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_209043_admiralty_annex_e_asw</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 12:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3aafd4b7db525300c2ec788dbf9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_209043_admiralty_annex_e_asw</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AdmiraltyTrilogy" source="x_209043_admiralty">5684826adb421300c2ec788dbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AdmiraltyTrilogy">5684826adb421300c2ec788dbf9619ef</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3aafd4b7db525300c2ec788dbf9619e1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 12:41:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

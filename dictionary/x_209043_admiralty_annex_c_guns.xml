@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Annex C (Guns)" max_length="40" name="x_209043_admiralty_annex_c_guns" type="collection"/>
+    <element label="Annex C (Guns)" max_length="40" name="x_209043_admiralty_annex_c_guns" type="collection">
+        <element label="Book" max_length="40" name="book" type="string"/>
+        <element label="Game System" max_length="40" name="game_system" type="string"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Remarks" max_length="40" name="remarks" type="string"/>
+    </element>
 </database>

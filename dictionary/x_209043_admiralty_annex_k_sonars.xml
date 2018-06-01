@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Annex K (Sonars)" max_length="40" name="x_209043_admiralty_annex_k_sonars" type="collection"/>
+    <element label="Annex K (Sonars)" max_length="40" name="x_209043_admiralty_annex_k_sonars" type="collection">
+        <element label="Book" max_length="40" name="book" type="string"/>
+        <element label="Freq" max_length="40" name="freq" type="string"/>
+        <element label="Game System" max_length="40" name="game_system" type="string"/>
+        <element label="Mode" max_length="40" name="mode" type="string"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Remarks" max_length="40" name="remarks" type="string"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+        <element label="25%" max_length="20" name="u_25" type="decimal"/>
+        <element label="50%" max_length="20" name="u_50" type="decimal"/>
+        <element label="75%" max_length="20" name="u_75" type="decimal"/>
+    </element>
 </database>

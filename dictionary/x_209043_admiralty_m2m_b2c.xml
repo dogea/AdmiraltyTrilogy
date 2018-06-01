@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="m2m_B2C" max_length="40" name="x_209043_admiralty_m2m_b2c" type="collection">
+        <element label="Annex B (Aircraft)" max_length="32" name="annex_b_aircraft" reference="x_209043_admiralty_annex_b_aircraft" type="reference"/>
+        <element label="Annex C (Guns)" max_length="32" name="annex_c_guns" reference="x_209043_admiralty_annex_c_guns" type="reference"/>
+        <index name="index">
+            <element name="annex_c_guns"/>
+        </index>
+        <index name="index2">
+            <element name="annex_b_aircraft"/>
+        </index>
+    </element>
+</database>

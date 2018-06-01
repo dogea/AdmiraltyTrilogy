@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="2e20acb7db525300c2ec788dbf9619ff" sys_domain="global" table="x_209043_admiralty_annex_f_torpedoes" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 12:44:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e20ecb7db525300c2ec788dbf961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_209043_admiralty_annex_f_torpedoes" name="x_209043_admiralty_annex_f_torpedoes" sys_domain="global" view="Default view">2e20acb7db525300c2ec788dbf9619ff</sys_ui_form>
+            <sys_ui_section caption="Torperdo Information" display_value="Torperdo Information" name="x_209043_admiralty_annex_f_torpedoes" sys_domain="global" view="Default view">f51028b7db525300c2ec788dbf96190f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 12:44:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 12:44:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e620ecb7db525300c2ec788dbf961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_209043_admiralty_annex_f_torpedoes" name="x_209043_admiralty_annex_f_torpedoes" sys_domain="global" view="Default view">2e20acb7db525300c2ec788dbf9619ff</sys_ui_form>
+            <sys_ui_section caption="Notes and Remarks" display_value="Notes and Remarks" name="x_209043_admiralty_annex_f_torpedoes" sys_domain="global" view="Default view">2a20acb7db525300c2ec788dbf9619fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 12:44:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_209043_admiralty_annex_f_torpedoes</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 12:44:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e20acb7db525300c2ec788dbf9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_209043_admiralty_annex_f_torpedoes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AdmiraltyTrilogy" source="x_209043_admiralty">5684826adb421300c2ec788dbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AdmiraltyTrilogy">5684826adb421300c2ec788dbf9619ef</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2e20acb7db525300c2ec788dbf9619ff</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 12:44:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
